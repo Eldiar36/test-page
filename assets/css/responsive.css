@@ -16,6 +16,13 @@
     .offer-box .offer-title .description {
         font-size: 26px;
     }
+    .offer-box .offer-title:before {
+        left: -80px;
+        background-size: contain;
+    }
+    .offer-box .video {
+        margin-top: -40px;
+    }
 }
 
 @media (max-width: 1800px) {
@@ -62,10 +69,14 @@
     }
 
     .lot .lot-box .price-record .price {
-        font-size: 44px;
-        line-height: 50px;
+        font-size: 40px;
+        line-height: 26px;
     }
-
+    .lot .lot-box .price-record .title {
+        font-weight: 500;
+        font-size: 17px;
+        line-height: 19px;
+    }
     .lot .inner-form__wrap:after {
         right: -22px;
         width: 20px;
