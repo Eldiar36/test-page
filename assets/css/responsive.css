@@ -63,6 +63,13 @@
     .offer-box .video {
         width: 297px;
     }
+    .lot.first .section-title {
+        margin-bottom: 15px;
+        font-size: 32px;
+        line-height: 38px;
+        width: 100%;
+        padding-left: 13%;
+    }
     .offer-box .offer-title .title {
         font-size: 28px;
         line-height: 33px;
@@ -137,6 +144,8 @@
     .lot.first .section-title {
         margin: 0 auto 0 auto;
         width: 100%;
+        font-size: 26px;
+        line-height: 28px;
     }
     .lot .container {
         padding: 0 24px;
@@ -289,6 +298,11 @@
     }
 }
 @media (max-width: 1024px) {
+    .lot.first .section-title {
+        padding: 15px 30px;
+        width: auto;
+        text-align: center;
+    }
     .offer-box {
         flex-direction: column-reverse;
         justify-content: center;
