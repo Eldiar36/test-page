@@ -25,6 +25,14 @@ $(document).ready(function(){
         }
     });
 })
+jQuery(document).ready(function($) {
+    $('.iframe-youtube').magnificPopup({
+        type: 'iframe',
+        height: "100vh",
+
+    });
+});
+
 $('.advantages-slider').slick({
     infinite: true,
     dots: true,

@@ -113,9 +113,8 @@
     }
 
     .offer-box .offer-title:before {
-        left: -62px;
+        left: -85px;
         background-size: contain;
-
     }
 
     .offer-box .contacts {
@@ -178,7 +177,7 @@
     }
 
     #advantages .advantages-item {
-        height: 340px;
+        height: 324px;
     }
 }
 
