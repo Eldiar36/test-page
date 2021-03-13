@@ -1,0 +1,223 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Regular.eot');
+    src: local('Gilroy Regular'), local('Gilroy-Regular'),
+    url('../fonts/Gilroy-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Regular.woff') format('woff'),
+    url('../fonts/Gilroy-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Bold.eot');
+    src: local('Gilroy Bold'), local('Gilroy-Bold'),
+    url('../fonts/Gilroy-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Bold.woff') format('woff'),
+    url('../fonts/Gilroy-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Semibold.eot');
+    src: local('Gilroy Semibold'), local('Gilroy-Semibold'),
+    url('../fonts/Gilroy-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Semibold.woff') format('woff'),
+    url('../fonts/Gilroy-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Medium.woff') format('woff'),
+    url('../fonts/Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/SFUIDisplay-Regular.eot');
+    src: local('SF UI Display Regular'), local('SFUIDisplay-Regular'),
+    url('../fonts/SFUIDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Regular.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/SFUIDisplay-Heavy.eot');
+    src: local('SF UI Display Heavy'), local('SFUIDisplay-Heavy'),
+    url('../fonts/SFUIDisplay-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Heavy.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Heavy.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/SFUIDisplay-Black.eot');
+    src: local('SF UI Display Black'), local('SFUIDisplay-Black'),
+    url('../fonts/SFUIDisplay-Black.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Black.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Black.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/SFUIDisplay-Bold.eot');
+    src: local('SF UI Display Bold'), local('SFUIDisplay-Bold'),
+    url('../fonts/SFUIDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Bold.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Bold.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display';
+    src: url('../fonts/SFUIDisplay-Medium.eot');
+    src: local('SF UI Display Medium'), local('SFUIDisplay-Medium'),
+    url('../fonts/SFUIDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Medium.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Medium.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'SF UI Display lIGHT';
+    src: url('/../fonts/SFUIDisplay-Light.eot');
+    src: local('SF UI Display Light'), local('SFUIDisplay-Light'),
+    url('../fonts/SFUIDisplay-Light.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/SFUIDisplay-Light.woff2') format('woff2'),
+    url('../fonts/SFUIDisplay-Light.woff') format('woff'),
+    url('../fonts/SFUIDisplay-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('/../fonts/Gilroy-Semibold.eot');
+    src: local('Gilroy Semibold'), local('Gilroy-Semibold'),
+    url('../fonts/Gilroy-Semibold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Semibold.woff') format('woff'),
+    url('../fonts/Gilroy-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Medium.eot');
+    src: local('Gilroy Medium'), local('Gilroy-Medium'),
+    url('../fonts/Gilroy-Medium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Medium.woff') format('woff'),
+    url('../fonts/Gilroy-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'Gilroy';
+    url('../fonts/Gilroy-UltraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Extrabold.eot');
+    src: local('Gilroy Extrabold'), local('Gilroy-Extrabold'),
+    url('../fonts/Gilroy-Extrabold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Extrabold.woff2') format('woff2'),
+    url('../fonts/Gilroy-Extrabold.woff') format('woff'),
+    url('../fonts/Gilroy-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Heavy.eot');
+    src: local('Gilroy Heavy'), local('Gilroy-Heavy'),
+    url('../fonts/Gilroy-Heavy.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Gilroy-Heavy.woff') format('woff'),
+    url('../fonts/Gilroy-Heavy.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-BOLD.ttf');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-MEDIUM.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-EXTRALIGHT.ttf');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-HEAVY.ttf');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-THIN.ttf');
+    font-weight: 100;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-EXTRABOLD.ttf');
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA-LIGHT.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Geometria';
+    src: url('../fonts/GEOMETRIA.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
