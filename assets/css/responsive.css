@@ -65,7 +65,7 @@
     }
     .lot.first .section-title {
         margin-bottom: 15px;
-        font-size: 32px;
+        font-size: 30px;
         line-height: 38px;
         width: 100%;
         padding-left: 13%;
@@ -82,10 +82,9 @@
         font-size: 23px;
     }
     .offer-box .offer-title:before {
-        left: -59px;
+        left: -62px;
         background-size: contain;
-        width: 42px;
-        height: 20px;
+
     }
     .offer-box .contacts {
         margin-left: 20px;
@@ -154,6 +153,19 @@
         width: 240px;
         height: 160px;
         margin-top: -25px;
+    }
+    .offer-box .offer-title .description {
+        font-size: 20px;
+    }
+    .offer-box .offer-title .title {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .offer-box .offer-title:before {
+        left: -58px;
+        background-size: contain;
+        width: 49px;
+        height: 20px;
     }
 }
 @media (max-width: 1400px) {
